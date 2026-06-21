@@ -2,3 +2,8 @@ theme: jekyll-theme-minimal
 title: Mathias Martinez
 description: Portfolio - projets académiques, professionnels et personnels.
 lang: fr
+
+collections:
+  projects:
+    output: true
+    permalink: /projets/:name/
