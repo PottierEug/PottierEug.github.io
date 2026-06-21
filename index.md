@@ -4,7 +4,7 @@ title: Accueil
 ---
 
 # Bienvenue sur le portfolio de Mathias Martinez
-
+{: .fade-in-up}
 ## À propos
 
 Diplômé de l'École Nationale Supérieure d'Arts et Métiers et titulaire d'un Master 2 en Sciences de la Décision et
